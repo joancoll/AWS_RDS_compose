@@ -1,0 +1,10 @@
+package cat.dam.andy.aws_rds_compose
+
+object AWS_KEYS {
+        // TODO: WARNING! DO NOT CHECK IN YOUR CREDENTIALS INTO PUBLIC SOURCE CONTROL
+        val server = ""
+        val port = "3306"
+        val database = "" // WARNING! DO NOT CHECK IN YOUR CREDENTIALS INTO PUBLIC SOURCE CONTROL
+        val user = "" // WARNING! DO NOT CHECK IN YOUR CREDENTIALS INTO PUBLIC SOURCE CONTROL
+        val pass = "" // WARNING! DO NOT CHECK IN YOUR CREDENTIALS INTO PUBLIC SOURCE CONTROL
+    }

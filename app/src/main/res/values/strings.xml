@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AWS_RDS_compose</string>
+    <string name="instructions">Enter a Pokemon name. Push Button to search</string>
+    <string name="search">Search</string>
+    <string name="hint">Enter a Pokemon name. Button to search</string>
+    <string name="no_valid_search">Please, type in at least the first letter of Pokemon name</string>
+    <string name="name_search">Search by name</string>
+</resources>
